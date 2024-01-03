@@ -1,0 +1,5 @@
+>npm i ejs express body-parser express-fileupload
+>create app.js file
+>create views folder and inside it create two file display.ejs and index.ejs
+>create public folder and inside it create one images folder.
+>whenever you take the input from the form at that time we used body parser.
